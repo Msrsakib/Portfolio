@@ -1,0 +1,1 @@
+document.querySelector('.btn').onclick=e=>{e.preventDefault();alert('Configure your webmail login URL.');};
