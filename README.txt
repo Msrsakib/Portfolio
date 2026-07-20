@@ -1,0 +1,1 @@
+Upload these files to GitHub Pages. Replace the Webmail Login link with your actual webmail URL.
